@@ -17,7 +17,7 @@ module.exports = {
           DEFAULT: "#2B59FF",
           100: "#F5F8FF",
         },
-        "secondary-orange": "#f79761",
+        "secondary-orange": "#FF5F1F",
         "light-white": {
           DEFAULT: "rgba(59,60,152,0.03)",
           100: "rgba(59,60,152,0.02)",
@@ -26,7 +26,7 @@ module.exports = {
       },
       backgroundImage: {
         'pattern': "url('/pattern.png')",
-        'hero-bg': "url('/hero-bg.png')"
+        'hero-bg': "url('/bg-orage.svg')"
       }
     },
   },
